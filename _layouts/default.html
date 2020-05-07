@@ -29,7 +29,8 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+      #{{ site.github.zip_url }} and {{ site.github.tar_url }}
+        <a href="/drawio/index.html" class="btn">Drawio</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
