@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Elasticsearch Clean and Install</title>
+	</head>
+	<body>
+    <!--HEADER -->
+		<h1 style="text-align: center">Elasticsearch Clean and Install</h1>
+    <br>
+    <!--GITHUB LIST-->
+		<div><h3>CentOS7 - Elasticsearch 7.9.3</h3></div>
+		<br><br>
+		systemctl stop elasticsearch;\<br>
+		yum autoremove elasticsearch -y;\<br>
+		sudo rm -rf /var/lib/elasticsearch/;\<br>
+		sudo rm -rf /etc/elasticsearch/;\<br>
+		wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.9.3-x86_64.rpm;\<br>
+		wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.9.3-x86_64.rpm.sha512;\<br>
+		shasum -a 512 -c elasticsearch-7.9.3-x86_64.rpm.sha512;\<br>
+		sudo rpm --install elasticsearch-7.9.3-x86_64.rpm;\<br>
+		systemctl daemon-reload;\<br>
+		systemctl start elasticsearch.service;\<br>
+		systemctl enable elasticsearch.service;\<br>
+		systemctl status elasticsearch.service<br>
+		<br><br>
+  <br><br>
+	</body>
+</html>
