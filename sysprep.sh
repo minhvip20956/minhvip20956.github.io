@@ -8,9 +8,8 @@ echo "net.ipv6.conf.default.disable_ipv6=1" >> /etc/sysctl.conf
 systemctl disable firewalld
 sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config
 yum update --skip-broken -y
-yum install epel-release -y
-yum install htop tmux qemu-guest-agent -y
-yum install nano -y
+yum install nano screen qemu-guest-agent -y
+systemctl enable qemu-guest-agent
 yum install yum-cron -y
 sed -i 's/download_updates = no/download_updates = yes/g' /etc/yum/yum-cron.conf
 sed -i 's/apply_updates = no/apply_updates = yes/g' /etc/yum/yum-cron.conf
