@@ -10,6 +10,7 @@ sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config
 yum update --skip-broken -y
 yum install epel-release -y
 yum install htop tmux qemu-guest-agent -y
+yum install nano -y
 yum install yum-cron -y
 sed -i 's/download_updates = no/download_updates = yes/g' /etc/yum/yum-cron.conf
 sed -i 's/apply_updates = no/apply_updates = yes/g' /etc/yum/yum-cron.conf
