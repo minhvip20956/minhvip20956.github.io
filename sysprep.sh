@@ -2,6 +2,7 @@
 ## By Cong Minh
 ## Run with command
 ## curl -o sysprep.sh https://raw.githubusercontent.com/minhvip20956/minhvip20956.github.io/master/sysprep.sh && chmod +x sysprep.sh && sh sysprep.sh
+## The system will shut down after the configuration is complete. DON'T BOOT the system if you haven't converted it into a template
 ##
 
 # Disabled Firewalld
