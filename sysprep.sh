@@ -1,5 +1,8 @@
+# SySPrep only for CentOS
+# By Cong Minh
 # Run with command
-# wget
+# curl -o sysprep.sh https://raw.githubusercontent.com/minhvip20956/minhvip20956.github.io/master/sysprep.sh && chmod +x sysprep.sh && sh sysprep.sh
+#
 echo "net.ipv6.conf.all.disable_ipv6=1" >> /etc/sysctl.conf
 echo "net.ipv6.conf.default.disable_ipv6=1" >> /etc/sysctl.conf
 systemctl disable firewalld
@@ -33,5 +36,6 @@ systemctl enable yum-cron
 unset HISTFILE
 /bin/rm -rf ~root/.ssh/
 /bin/rm -f ~root/anaconda-ks.cfg
+/bin/rm -f sysprep.sh
 history -c
 sys-unconfig
