@@ -22,6 +22,9 @@ FileZilla: [https://filezilla-project.org/](https://filezilla-project.org/)<br>
 ### Coding
 Notepad++: [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)<br>
 Atom: [https://atom.io/](https://atom.io/)<br>
+Sublime Text (Free - Paid): [https://www.sublimetext.com/](https://www.sublimetext.com/)<br>
+VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)<br>
+NetBeans: [https://netbeans.apache.org/](https://netbeans.apache.org/)<br>
 
 ### NETGEAR USB PRINT
 [Windows - Version 1.36](/Netgear-Print/USB-Printer_Win_v1.36.zip)<br>
