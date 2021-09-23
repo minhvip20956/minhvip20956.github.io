@@ -5,7 +5,11 @@
 [WireGuard VPN Server - Guide](/wireguard-install/)
 
 ### Tools
-[Mobaxtrem](https://mobaxterm.mobatek.net/download-home-edition.html)<br>
+[Mobaxtrem](https://mobaxterm.mobatek.net/)<br>
+[Putty](https://www.putty.org/)<br>
+[WinSCP](https://winscp.net/)<br>
+[FileZilla](https://filezilla-project.org/)<br>
+
 
 ### NETGEAR USB PRINT
 [Windows - Version 1.36](/Netgear-Print/USB-Printer_Win_v1.36.zip)<br>
