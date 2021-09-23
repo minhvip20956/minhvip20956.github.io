@@ -4,9 +4,12 @@
 [Adguard Home - Guide](/adguard-home/)<br>
 [WireGuard VPN Server - Guide](/wireguard-install/)
 
-### Tools
+### SSH Tools
 [Mobaxtrem](https://mobaxterm.mobatek.net/)<br>
 [Putty](https://www.putty.org/)<br>
+[SmarTTY](https://sysprogs.com/SmarTTY/)<br>
+
+### FTP/SFTP Tools
 [WinSCP](https://winscp.net/)<br>
 [FileZilla](https://filezilla-project.org/)<br>
 
