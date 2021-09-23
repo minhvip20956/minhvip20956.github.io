@@ -16,6 +16,9 @@ Bitvise SSH Client: [https://www.bitvise.com/](https://www.bitvise.com/)<br>
 WinSCP: [https://winscp.net/](https://winscp.net/)<br>
 FileZilla: [https://filezilla-project.org/](https://filezilla-project.org/)<br>
 
+### Coding
+Notepad++: [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)<br>
+Atom: [https://atom.io/](https://atom.io/)<br>
 
 ### NETGEAR USB PRINT
 [Windows - Version 1.36](/Netgear-Print/USB-Printer_Win_v1.36.zip)<br>
