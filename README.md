@@ -11,6 +11,9 @@ SmarTTY: [https://sysprogs.com/SmarTTY/](https://sysprogs.com/SmarTTY/)<br>
 mRemoteNG: [https://mremoteng.org/](https://mremoteng.org/)<br>
 Bitvise SSH Client: [https://www.bitvise.com/](https://www.bitvise.com/)<br>
 
+### Linux SSH Tools
+Snowflake SSH: [https://github.com/subhra74/snowflake/](https://github.com/subhra74/snowflake/releases/)<br>
+
 
 ### Windows FTP/SFTP Tools
 WinSCP: [https://winscp.net/](https://winscp.net/)<br>
