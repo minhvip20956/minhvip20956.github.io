@@ -26,6 +26,9 @@ Sublime Text (Free - Paid): [https://www.sublimetext.com/](https://www.sublimete
 VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)<br>
 NetBeans: [https://netbeans.apache.org/](https://netbeans.apache.org/)<br>
 
+### Free Download Manager Tools
+Free Download Manager: [https://www.freedownloadmanager.org/](https://www.freedownloadmanager.org/)<br>
+
 ### NETGEAR USB PRINT
 [Windows - Version 1.36](/Netgear-Print/USB-Printer_Win_v1.36.zip)<br>
 [MACOS - Version 3.1 (Supports MAC OS 10.13 and above)](/Netgear-Print/USB-Printer-MAC_V3.1.zip)
